@@ -1,0 +1,1 @@
+web: gunicorn <koral>.wsgi --log-file -
