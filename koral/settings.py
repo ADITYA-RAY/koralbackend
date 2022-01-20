@@ -15,7 +15,7 @@ SECRET_KEY = 'django-insecure-9&p7!ipgt&h9vhw-n4t_+1g&ksba#ra=9cd0zjnv-r+#k!++i%
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
-ALLOWED_HOSTS = ['127.0.0.1', 'koralbackend.herokuapp.com']
+ALLOWED_HOSTS = ['127.0.0.1', '.herokuapp.com']
 
 
 # Application definition
