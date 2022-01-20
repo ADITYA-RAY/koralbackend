@@ -1,1 +1,1 @@
-web: gunicorn <koral>.wsgi --log-file -
+web: gunicorn koral.wsgi 
